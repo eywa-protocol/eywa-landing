@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/eywa-landing/static/css/main.28f53bde.chunk.css",
-    "main.js": "/eywa-landing/static/js/main.816a337f.chunk.js",
-    "main.js.map": "/eywa-landing/static/js/main.816a337f.chunk.js.map",
-    "runtime-main.js": "/eywa-landing/static/js/runtime-main.09dc9412.js",
-    "runtime-main.js.map": "/eywa-landing/static/js/runtime-main.09dc9412.js.map",
-    "static/css/2.d82da10d.chunk.css": "/eywa-landing/static/css/2.d82da10d.chunk.css",
-    "static/js/2.b0e495bd.chunk.js": "/eywa-landing/static/js/2.b0e495bd.chunk.js",
-    "static/js/2.b0e495bd.chunk.js.map": "/eywa-landing/static/js/2.b0e495bd.chunk.js.map",
+    "main.css": "/eywa-landing/static/css/main.0fe2b5c1.chunk.css",
+    "main.js": "/eywa-landing/static/js/main.d5879ef8.chunk.js",
+    "main.js.map": "/eywa-landing/static/js/main.d5879ef8.chunk.js.map",
+    "runtime-main.js": "/eywa-landing/static/js/runtime-main.326c82ec.js",
+    "runtime-main.js.map": "/eywa-landing/static/js/runtime-main.326c82ec.js.map",
+    "static/css/2.d2631d2c.chunk.css": "/eywa-landing/static/css/2.d2631d2c.chunk.css",
+    "static/js/2.8aeae377.chunk.js": "/eywa-landing/static/js/2.8aeae377.chunk.js",
+    "static/js/2.8aeae377.chunk.js.map": "/eywa-landing/static/js/2.8aeae377.chunk.js.map",
     "index.html": "/eywa-landing/index.html",
-    "static/css/2.d82da10d.chunk.css.map": "/eywa-landing/static/css/2.d82da10d.chunk.css.map",
-    "static/css/main.28f53bde.chunk.css.map": "/eywa-landing/static/css/main.28f53bde.chunk.css.map",
-    "static/js/2.b0e495bd.chunk.js.LICENSE.txt": "/eywa-landing/static/js/2.b0e495bd.chunk.js.LICENSE.txt",
-    "static/media/404.jpg": "/eywa-landing/static/media/404.458d53b3.jpg",
+    "static/css/2.d2631d2c.chunk.css.map": "/eywa-landing/static/css/2.d2631d2c.chunk.css.map",
+    "static/css/main.0fe2b5c1.chunk.css.map": "/eywa-landing/static/css/main.0fe2b5c1.chunk.css.map",
+    "static/js/2.8aeae377.chunk.js.LICENSE.txt": "/eywa-landing/static/js/2.8aeae377.chunk.js.LICENSE.txt",
     "static/media/about-grid-01.jpg": "/eywa-landing/static/media/about-grid-01.c6213cc3.jpg",
     "static/media/about-grid-02.jpg": "/eywa-landing/static/media/about-grid-02.695487e1.jpg",
     "static/media/about-grid-03.jpg": "/eywa-landing/static/media/about-grid-03.bce361f6.jpg",
@@ -66,10 +65,10 @@
     "static/media/xdai-stake-logo.svg": "/eywa-landing/static/media/xdai-stake-logo.b1babff6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.09dc9412.js",
-    "static/css/2.d82da10d.chunk.css",
-    "static/js/2.b0e495bd.chunk.js",
-    "static/css/main.28f53bde.chunk.css",
-    "static/js/main.816a337f.chunk.js"
+    "static/js/runtime-main.326c82ec.js",
+    "static/css/2.d2631d2c.chunk.css",
+    "static/js/2.8aeae377.chunk.js",
+    "static/css/main.0fe2b5c1.chunk.css",
+    "static/js/main.d5879ef8.chunk.js"
   ]
 }
